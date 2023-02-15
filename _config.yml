@@ -40,7 +40,7 @@ description:         >
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Ferhat Ay
-  email:             ferhatay@lji.org
+  email:             fay@health.ucsd.edu
 
 # Fallback image and color (note you can have a page specific sidebar image and color from yml)
 image:               /bimm143_W18/assets/img/dna.jpg
