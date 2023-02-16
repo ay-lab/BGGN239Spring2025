@@ -1,21 +1,21 @@
-# The primary author of this site (i.e. Barry!).
+# The primary author of this site (i.e. Ferhat!).
 # Must be the same as `author` in `_config.yml`.
 # Change `barry` to your shortname (used in the front matter to set a page's author, e.g. `author: ileena`).
 barry:
-  name:              Barry Grant
-  email:             <bjgrant@ucsd.edu>
+  name:              Ferhat Ay
+  email:             <fay@health.ucsd.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
     Course Director
-    : [Prof. Barry J. Grant](http://thegrantlab.org/) (Email: <bjgrant@ucsd.edu>)
+    : [Prof. Ferhat Ay.](https://www.lji.org/labs/ay/) (Email: <fay@health.ucsd.edu>)
 
-    Instructional Assistant
-    : Alexzander Sharp (Email: <arsharp@ucsd.edu>)  
+    Course Administrator
+    : Donaldo Sosa (Email: <donaldo@lji.org>)  
 
-    Course Syllabus
-    : [Winter 2018 (PDF)](https://bioboot.github.io/bimm143_W18/class-material/BIMM143_W18_syllabus.pdf){:.no-push-state}
+    Cousrse Syllabus
+    : [Spring 2023 (PDF)](https://bioboot.github.io/bimm143_W18/class-material/BIMM143_W18_syllabus.pdf){:.no-push-state}
     {:.message}
 
 #    : [Ileena Mitra](https://bioboot.github.io/bggn213_f17/ileenamitra@eng.ucsd.edu) (Email: <ileenamitra@eng.ucsd.edu>)
@@ -37,7 +37,7 @@ barry:
   # Icons appear in order, can be rearranged:
   social:
     # facebook:        <username>
-    twitter:         barryjgrant
+    twitter:         ferhatay
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -60,7 +60,7 @@ barry:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          bioboot
+    github:            <username>
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -71,15 +71,27 @@ barry:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<bjgrant@ucsd.edu>
+    email:           mailto:<fay@health.ucsd.edu>
     rss:             https://bioboot.github.io/bimm143_W18/feed.xml
 
 # Another author
-ileena:
-  name:              Ileena Mitra
+Laura:
+  name:              Laura Hinojosa
   email:             <ileenamitra@eng.ucsd.edu>
   about:             |
-    Ileena is a bioinformatics graduate student at UCSD.  
+    Ileena is a Research Tech at Ay lab.  
+  picture:           https://placehold.it/128x128
+  social:
+    github:          <username>
+    twitter:         <username>
+  image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
+  color: '#268bd2'
+
+Donaldo:
+  name:              Donaldo Sosa
+  email:             <donaldo@lji.org>
+  about:             |
+    Donaldo is a Research Admin Assistant at Ay lab.  
   picture:           https://placehold.it/128x128
   social:
     github:          <username>
