@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Bioinformatics <br> (BIMM 143, Winter 2018)
+title: Bioinformatics for Immunologists <br> (BGGN 239, Spring 2023)
 selected_projects:
   - _projects/welcome-screencast.md
   - _projects/using-jetstream-for-bioinformatics.md
@@ -8,10 +8,11 @@ more_projects: projects.md
 ---
 
 ## Overview
-Bioinformatics - the application of computational and analytical methods to biological problems - is a rapidly maturing field that is driving the collection, analysis, and interpretation of the avalanche of data in modern life sciences and medical research.  
+Bioinformatics - Bioinformatics is conceptualizing biology in terms of macromolecules and then applying "informatics" techniques derived from disciplines such as applied mathematics, computer science, and statistics to understand and organize the information associated with these molecules, on a large-scale. 
 
-This upper division 4-unit course is designed for biology majors and provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins.  
+This (number of units) course is dedicated to teach bioinformatics with a specific focus on its applications to important problems in immunology through practical and hands-on training likely to impact students' overall success in their research. 
 
+#should we keep text below? Please modify base on the course
 An integrated lecture/lab structure with hands-on exercises and small-scale projects emphasizes modern developments in genomics and proteomics. A detailed listing of all [lecture topics]({{ site.baseurl }}/lectures/) is available and includes the major areas of: 
 
 - Genomic and biomolecular bioinformatic resources, 
@@ -24,11 +25,12 @@ An integrated lecture/lab structure with hands-on exercises and small-scale proj
  Students completing this course will be able to apply leading existing bioinformatics tools to address biological questions. Our broader goal is to point towards perspectives that bioinformatics can expose for the integration and analysis of complex biological information. For further details please see our complete list of [course objectives and specific learning goals]({{ site.baseurl }}/goals/).
  
 
+#Pleae modify base on the course
 ## Audience: 
 Biology majors with upper division standing. A familiarity with basic biomedical concepts is essential (students should have successfully completed BILD1 and BILD4 or BIMM 101). No formal programming training or high level mathematical skills are required.  
 
 ## Accessibility:  
-We are committed to making this course accessible to everybody. Please contact Prof. Grant <bigrant@ucsd.edu> if you have questions regarding room accessibility.  
+We are committed to making this course accessible to everybody. Please contact Prof. Ferhat <day@health.ucsd.edu> if you have questions regarding room accessibility.  
 
 ## Requirements: 
 To fully participate in this course students will be expected to use their own laptop computers with specific freely available [software installed]({{ site.baseurl }}/setup/). A limited number of classroom computers are also available should the need arise. Participants must bring a laptop with specific [software installed]({{ site.baseurl }}/setup/).  
