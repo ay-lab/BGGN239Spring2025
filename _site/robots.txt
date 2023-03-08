@@ -1,1 +1,1 @@
-Sitemap: https://bioboot.github.io/BGGN239Spring2023/sitemap.xml
+Sitemap: https://ay-lab.github.io/BGGN239Spring2023/sitemap.xml
