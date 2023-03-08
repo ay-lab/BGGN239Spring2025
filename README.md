@@ -3,12 +3,13 @@
 Available in https://ay-lab.github.io/BGGN239Spring2023/
 
 ## Installation (recommend using conda/mamba)
+Clone this repository, then:
 ```bash
 conda env create --file  jekyll_env.yml
 ```
 
 ## Build page: first time users
-Assuming you have already installed all dependencies, clone this repository, then
+Assuming you have already installed all dependencies and cloned the repository.
 ```bash
 cd BGGN239Spring2023
 conda activate jekyll
