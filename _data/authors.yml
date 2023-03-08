@@ -15,14 +15,14 @@ barry:
     : Donaldo Sosa (Email: <donaldo@lji.org>)  
 
     Course Syllabus
-    : [Spring 2023 (PDF)](https://bioboot.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}
+    : [Spring 2023 (PDF)](https://ay-lab.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}
     {:.message}
 
-#    : [Donaldo Sosa](https://bioboot.github.io/BGGN239Spring2023/donaldo@lji.org) (Email: <donaldo@lji.org>)
+#    : [Donaldo Sosa](https://ay-lab.github.io/BGGN239Spring2023/donaldo@lji.org) (Email: <donaldo@lji.org>)
 ##  about:             |
 ##    Course Director:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; [**Prof. Barry J. Grant**](http://thegrantlab.org/) &nbsp; &nbsp; (Email: <fay@health.ucsd.edu>)  
 ##    Course Administrator: &nbsp; [**Donaldo Sosa**](donaldo@lji.org) &nbsp; &nbsp; &nbsp; (Email: <donaldo@lji.org>)  
-##    Course Syllabus:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**Spring 2023** (PDF)](https://bioboot.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}  
+##    Course Syllabus:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**Spring 2023** (PDF)](https://ay-lab.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}  
 
   # This photo will be used in the about section
   picture:
@@ -72,7 +72,7 @@ barry:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:<fay@health.ucsd.edu>
-    rss:             https://bioboot.github.io/bimm143_W18/feed.xml
+    #rss:              <username>
 
 # Another author
 Laura:
