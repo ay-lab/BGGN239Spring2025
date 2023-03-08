@@ -1,10 +1,6 @@
 ---
 layout: welcome
 title: Bioinformatics for Immunologists <br> (BGGN 239, Spring 2023)
-selected_projects:
-  - _projects/welcome-screencast.md
-  - _projects/using-jetstream-for-bioinformatics.md
-more_projects: projects.md
 ---
 
 ## Overview
