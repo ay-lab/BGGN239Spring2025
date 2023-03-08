@@ -39,7 +39,6 @@ layout: about
     {% endif %}
   {% endfor %}
 {% else %}
-  <h2>Recent screencast videos</h2>
   {% assign ordered_projects = site.projects | sort:"date" | reverse %}
   {% assign is_newline = true %}
   {% for project in ordered_projects limit:2 %}
