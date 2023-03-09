@@ -13,7 +13,8 @@ For the Spring 2023 quarter we will meet twice a week on Monday and Wednesday at
 
 | \# | Date         | Topics for Spring 2023                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | :-: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | Monday 04/03/23 & Wednesday 04/05/23 | ([**Barry Grant - Recap of foundations of bioinformatics**](https://drive.google.com/drive/folders/1p43J8N9MEJ-VpOurQYehkVh-ezT8RdEf){:target="_blank"}) Topics:
+| 1  | Monday 04/03/23 & Wednesday 04/05/23 | ([**Barry Grant - Recap of foundations of bioinformatics**](https://drive.google.com/drive/folders/1p43J8N9MEJ-VpOurQYehkVh-ezT8RdEf)) 
+Topics:
 - Working with UNIX
 - Sequence alignment
 - Key online resources
