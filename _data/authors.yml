@@ -2,16 +2,15 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `barry` to your shortname (used in the front matter to set a page's author, e.g. `author: ileena`).
 Ferhat:
-  name:              Mitchell Kronenberg
-  email:             <mitch@lji.org>
   name:              Ferhat Ay
-  email:             <fay@health.ucsd.edu>
+  email:             <fay@ucsd.health.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
     Course Director
     : [Prof. Ferhat Ay](https://www.lji.org/labs/ay/) (Email: <fay@health.ucsd.edu>)
+    : [Prof. Mitchell Kronenberg ](https://www.lji.org/labs/kronenberg/) (Email: <mitch@lji.org>)
 
     Course Coordinator
     : Donaldo Sosa (Email: <donaldo@lji.org>)  
