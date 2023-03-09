@@ -1,7 +1,9 @@
 # The primary author of this site (i.e. Barry!).
 # Must be the same as `author` in `_config.yml`.
 # Change `barry` to your shortname (used in the front matter to set a page's author, e.g. `author: ileena`).
-barry:
+Ferhat:
+  name:              Mitchell Kronenberg
+  email:             <mitch@lji.org>
   name:              Ferhat Ay
   email:             <fay@health.ucsd.edu>
 
