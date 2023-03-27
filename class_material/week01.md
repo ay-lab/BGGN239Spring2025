@@ -98,11 +98,10 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 ## Class 2: RNA-Seq analysis mini-project
 
 **Topics:** 
-Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.   
+Differential expression analysis project, Working with GEO and DESeq2 followed by gene enrichment and functional annotation with KEGG and GO ontologies.   
 
 
-- Lab: [DESeq2 analysis mini-project]({{ site.baseurl }}/class-material/lab-15-bimm143.html){:.no-push-state}{:target="_blank"},  
-- Data files: [GSE37704_featurecounts.csv]({{ site.baseurl }}/class-material/GSE37704_featurecounts.csv){:.no-push-state}, [GSE37704_metadata.csv]({{ site.baseurl }}/class-material/GSE37704_metadata.csv){:.no-push-state}.   
+- Lab: [DESeq2 analysis mini-project]({{ site.baseurl }}/class-material/class2_lab.html){:.no-push-state}{:target="_blank"}.   
 
 **Homework:**
 - Submit your completed PDF lab report to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
