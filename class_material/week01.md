@@ -17,7 +17,7 @@ description: >
 ## Class 0: Getting oriented  
 
 **Topics:**  
-Course introduction, Learning goals & expectations, Meet the instructional team. Seting up your computer with required software. Refresh your knoweledge of basic UNIX as well as R data structures, using R functions, and installing R packages from CRAN and BioConductor.  
+Course introduction, Learning goals & expectations, Meet the instructional team. Seting up your computer with required software. Refresh your knoweledge of basic UNIX and R.  
 
 
 **Goals:**
@@ -34,7 +34,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/). 
 
 
-**Recap Videos from BGGN213:**
+**Optional Recap Videos from BGGN213:**
 - 0.1.1 - [Introduction to bioinformatics (what, where and why of bioinformatics)](https://youtu.be/75JGKKZ7oNM){:.no-push-state}{:target="_blank"},  
 - 0.1.2 - [Major bioinformatics resource providers (NCBI and EBI)](https://youtu.be/o_IO7dDUZPM){:.no-push-state}{:target="_blank"},  
 - 0.1.3 - [A quick tour of the GENE, UniProt, GO, OMIM, PDB and PFAM](https://youtu.be/afqB87ZSkXw){:.no-push-state}{:target="_blank"}.    
@@ -79,7 +79,7 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 - Detailed [Bioconductor setup](https://bioboot.github.io/bggn213_W23//class-material/bioconductor_setup/){:.no-push-state}{:target="_blank"} instructions.
 - WebApp: [Introduction to PCA](https://bioboot.github.io/bggn213_W23/class-material/pca/){:.no-push-state}{:target="_blank"},  
 - Lab: [Hands-on section worksheet](https://bioboot.github.io/bggn213_W23/class-material/Class15.html){:.no-push-state}{:target="_blank"},  
-- [Muddy point assessment](https://forms.gle/DjpHctStFB15vaow6){:.no-push-state}.  TO UPDATE
+- [Muddy point assessment](https://forms.gle/DjpHctStFB15vaow6){:.no-push-state}. 
 
 
 **Readings**:
@@ -101,7 +101,9 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 Differential expression analysis project, Working with GEO and DESeq2 followed by gene enrichment and functional annotation with KEGG and GO ontologies.   
 
 
-- Lab: [DESeq2 analysis mini-project]({{ site.baseurl }}/class-material/class2_lab.html){:.no-push-state}{:target="_blank"}.   
+- Lab: [DESeq2 analysis mini-project]({{ site.baseurl }}/class-material/class2_lab.html){:.no-push-state}{:target="_blank"}.  
+- [Muddy point assessment](https://forms.gle/DjpHctStFB15vaow6){:.no-push-state}.  TO UPDATE
+ 
 
 **Homework:**
 - Submit your completed PDF lab report to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
