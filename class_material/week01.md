@@ -76,6 +76,7 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 
 
 **Supporting material:**
+- Slides: [Large PDF]({{ site.baseurl }}/class_material/class01_slides.pdf){:.no-push-state}{:target="_blank"},  
 - Lab: [**Hands-on section worksheet**  ]({{ site.baseurl }}/class_material/class1_lab.html){:.no-push-state}{:target="_blank"},  
 - Detailed [Bioconductor setup](https://bioboot.github.io/bggn213_W23//class-material/bioconductor_setup/){:.no-push-state}{:target="_blank"} instructions.
 - WebApp: [Introduction to PCA](https://bioboot.github.io/bggn213_W23/class-material/pca/){:.no-push-state}{:target="_blank"},  
