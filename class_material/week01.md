@@ -76,17 +76,16 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 
 
 **Supporting material:**
+- Lab: [**Hands-on section worksheet**  ]({{ site.baseurl }}/class_material/class1_lab.html){:.no-push-state}{:target="_blank"},  
 - Detailed [Bioconductor setup](https://bioboot.github.io/bggn213_W23//class-material/bioconductor_setup/){:.no-push-state}{:target="_blank"} instructions.
 - WebApp: [Introduction to PCA](https://bioboot.github.io/bggn213_W23/class-material/pca/){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on section worksheet](https://bioboot.github.io/bggn213_W23/class-material/Class15.html){:.no-push-state}{:target="_blank"},  
 - [Muddy point assessment](https://forms.gle/DjpHctStFB15vaow6){:.no-push-state}. 
 
 
 **Readings**:
- - Excellent review article: [Conesa et al. A survey of best practices for RNA-seq data analysis. _Genome Biology_ 17:13 (2016)](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8){:.no-push-state}.
- - An oldey but a goodie: [Soneson et al. "Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences." _F1000Research_ 4 (2015)](https://f1000research.com/articles/4-1521/v2).
- - Good review article: Trapnell C, Hendrickson DG, Sauvageau M, Goff L et al. "*Differential analysis of gene regulation at transcript resolution with RNA-seq*". Nat Biotechnol 2013 Jan;31(1):46-53. [PMID: 23222703](https://www.ncbi.nlm.nih.gov/pubmed/23222703){:.no-push-state}.   
- - Abstract and introduction sections of: [Himes et al. "RNA-Seq transcriptome profiling identifies CRISPLD2 as a glucocorticoid responsive gene that modulates cytokine function in airway smooth muscle cells." _PLoS ONE_ 9.6 (2014): e99625](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099625){:.no-push-state}.  
+ - Excellent review article: [Conesa et al. A survey of best practices for RNA-seq data analysis. _Genome Biology_ 17:13 (2016)](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8){:.no-push-state}.  
+ - An oldey but a goodie: [Soneson et al. "Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences." _F1000Research_ 4 (2015)](https://f1000research.com/articles/4-1521/v2).  
+  
 
 
 **Homework:**
