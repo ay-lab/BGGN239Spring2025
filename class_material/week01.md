@@ -30,7 +30,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 
 
 **Supporting material:**  
-- Handout: [Class Syllabus]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}{:target="_blank"},  
+- Handout: [Class Structure](https://ay-lab.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}{:target="_blank"},  
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/). 
 
 
@@ -90,7 +90,7 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 
 
 **Homework:**
-- Submit your completed PDF lab report to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
+- Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/528106){:.no-push-state}{:target="_blank"},  
 
 
 --- 
@@ -101,9 +101,9 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 Differential expression analysis project, Working with GEO and DESeq2 followed by gene enrichment and functional annotation with KEGG and GO ontologies.   
 
 
-- Lab: [DESeq2 analysis mini-project]({{ site.baseurl }}/class-material/class2_lab.html){:.no-push-state}{:target="_blank"}.  
-- [Muddy point assessment](https://forms.gle/DjpHctStFB15vaow6){:.no-push-state}.  TO UPDATE
- 
+- Lab: [DESeq2 analysis mini-project]({{ site.baseurl }}/class_material/class2_lab.html){:.no-push-state}{:target="_blank"}.  
+- [Muddy point assessment](https://forms.gle/nTcwUHM4c2nmNZvp8){:.no-push-state}.  TO UPDATE
+
 
 **Homework:**
-- Submit your completed PDF lab report to [GradeScope]({{ site.data.authors.corelinks.gradescope }}){:.no-push-state}{:target="_blank"},  
+- Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/528106){:.no-push-state}{:target="_blank"},  
