@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 2
+title: Week 2 - FERHAT AY
 menu: false
 description: >
   **Key Point:** To fully participate in the hands-on sections of this course you will need to refresh your R and UNIX skills as well as have access to [specific software]({{ site.baseurl }}/setup/) on your own laptop that you bring to each class.
