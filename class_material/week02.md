@@ -1,55 +1,29 @@
 ---
 layout: page
-title: Week 2 - FERHAT AY
+title: Week 2 - Ferhat Ay
 menu: false
 description: >
-  **Key Point:** To fully participate in the hands-on sections of this course you will need to refresh your R and UNIX skills as well as have access to [specific software]({{ site.baseurl }}/setup/) on your own laptop that you bring to each class.
+  **Key Point:** To fully participate in the hands-on sections of this course you will need to refresh your R and UNIX skills as well as have access to specific software on your own laptop that you bring to each class.
 ---
 
 > ### On this page:
-- Class 0: [Getting oriented](#0).
-- Class 1. [Transcriptomics and the analysis of RNA-Seq data](#1).
-- Class 2: [RNA-Seq analysis mini-project](#2).
-
+- Class 0: [Finishing up the SLE exercise](#0).
+- Class 1. [ClusterProfiler GO term enrichment analysis](#1).
+- Class 2: [ClusterProfiler gene set enrichment analysis](#2).
+- Class 3: [RNA-Seq analysis mini-project](#3).
+- Optional (Advanced): [WGCNA - Weighted gene co-expression network analysis](#4).
 <br/>
 
 <a name="0"></a>
-## Class 0: Getting oriented  
+## Class 0: Finishing up the SLE exercise 
 
 **Topics:**  
-Course introduction, Learning goals & expectations, Meet the instructional team. Seting up your computer with required software. Refresh your knoweledge of basic UNIX and R.  
-
-
-**Goals:**
-- Understand course scope, expectations, logistics and ethics code.  
-- Setup your computer for this course.  
-- Familiarity with major R data structures (vectors, data.frames and lists),
-- Understand the basics of using R functions (arguments, vectorizion and re-cycling).
-- Be able to install R packages from CRAN and BioConductor.  
-- Use UNIX command-line tools for file system navigation and text file manipulation.  
-
+- Finishing up the DESeq portion of the SLE exercise
+- Getting gene sets and saving them with all the related information to continue Week 2 exercises
 
 **Supporting material:**  
-- Handout: [Class Structure](https://ay-lab.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}{:target="_blank"},  
-- Computer [Setup Instructions]({{ site.baseurl }}/setup/). 
-
-
-**Optional Recap Videos from BGGN213:**
-- 0.1.1 - [Introduction to bioinformatics (what, where and why of bioinformatics)](https://youtu.be/75JGKKZ7oNM){:.no-push-state}{:target="_blank"},  
-- 0.1.2 - [Major bioinformatics resource providers (NCBI and EBI)](https://youtu.be/o_IO7dDUZPM){:.no-push-state}{:target="_blank"},  
-- 0.1.3 - [A quick tour of the GENE, UniProt, GO, OMIM, PDB and PFAM](https://youtu.be/afqB87ZSkXw){:.no-push-state}{:target="_blank"}.    
-
-
-- 0.2.1 - [Major R data structures, data types, and using functions](https://youtu.be/GRKdOPVD3-Y){:.no-push-state}{:target="_blank"},  
-- 0.2.2 - [Introduction to ggplot](http://youtu.be/c8wWtU3aoF4){:.no-push-state}{:target="_blank"},   
-- 0.2.3 - [Introduction to CRAN & BioConductor](https://youtu.be/qAvJ92qCGqE){:.no-push-state}{:target="_blank"},
-- 0.2.4 - [Quick introduction to RMarkdown](https://www.youtube.com/watch?v=O7GMs9V3HQk){:.no-push-state}{:target="_blank"},  
-
-
-- 0.3.1 - [Essential UNIX for bioinformatics I](http://youtu.be/qsDzjQm_Wp0){:.no-push-state}{:target="_blank"},  
-- 0.3.2 - [Essential UNIX for bioinformatics II](http://youtu.be/11t1GuZB77M){:.no-push-state}{:target="_blank"},  
-- 0.3.3 - [Manipulating files on UNIX machines](http://youtu.be/_jVgj6UutwA){:.no-push-state}{:target="_blank"}
-- 0.3.4 - [UNIX superpowers: using pipes and conecting to remote machines](http://youtu.be/AKLha-_IurU){:.no-push-state}{:target="_blank"}.  
+- Lab from Week 1: [DESeq2 analysis mini-project]({{ site.baseurl }}/class_material/class2_lab.html){:.no-push-state}{:target="_blank"}.  
+- Illustrations of how dplyr functions work: [By Allison Horst] (https://allisonhorst.com/r-packages-functions){:.no-push-state}{:target="_blank"}, 
 
 
 
