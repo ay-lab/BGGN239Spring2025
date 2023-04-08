@@ -23,7 +23,7 @@ description: >
 
 **Supporting material:**  
 - Lab from Week 1: [DESeq2 analysis mini-project]({{ site.baseurl }}/class_material/class2_lab.html){:.no-push-state}{:target="_blank"}.  
-- Illustrations of how dplyr functions work: [By Allison Horst] (https://allisonhorst.com/r-packages-functions){:.no-push-state}{:target="_blank"}, 
+- Illustrations of how dplyr functions work: [By Allison Horst](https://allisonhorst.com/r-packages-functions){:.no-push-state}, 
 
 
 
