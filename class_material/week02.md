@@ -8,9 +8,8 @@ description: >
 
 > ### On this page:
 - Class 0: [Finishing up the SLE exercise](#0).
-- Class 1. [ClusterProfiler GO term enrichment analysis](#1).
-- Class 2: [ClusterProfiler gene set enrichment analysis](#2).
-- Class 3: [RNA-Seq analysis mini-project](#3).
+- Class 1. [ClusterProfiler GO term and gene set enrichment analysis](#1).
+- Class 2: [Single-cell data analysis mini-project - CITE-seq](#3).
 - Optional (Advanced): [WGCNA - Weighted gene co-expression network analysis](#4).
 <br/>
 
@@ -20,64 +19,48 @@ description: >
 **Topics:**  
 - Finishing up the DESeq portion of the SLE exercise
 - Getting gene sets and saving them with all the related information to continue Week 2 exercises
+- Follow the vignette provided in [Google Drive](https://drive.google.com/drive/folders/1c6YZvw4NxY3kBTrP-IBa4M6YHExxo75P){:.no-push-state},  
 
 **Supporting material:**  
 - Lab from Week 1: [DESeq2 analysis mini-project]({{ site.baseurl }}/class_material/class2_lab.html){:.no-push-state}{:target="_blank"}.  
 - Illustrations of how dplyr functions work: [By Allison Horst](https://allisonhorst.com/r-packages-functions){:.no-push-state}, 
 
-
+**Homework:**
+- This is "03. Completing SLE mini project" in Gradescope
+- Submit your completed PDF lab report with answers to homework questions at [GradeScope](https://www.gradescope.com/courses/528106){:.no-push-state}{:target="_blank"},  
 
 --- 
 <a name="1"></a>
-### Class 1. Transcriptomics and the analysis of RNA-Seq data
+### Class 1. ClusterProfiler GO term and gene set enrichment analysis
 
 **Topics:** 
-Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statistics, Counts and FPKMs, Normalizing for sequencing depth, DESeq2 analysis. Gene finding and functional annotation from high throughput sequencing data, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.  
-
-
-**Goals:**  
-- Given an RNA-Seq dataset, find the set of significantly differentially expressed genes and their annotations.  
-- Gain competency with data import, processing and analysis with DESeq2 and other bioconductor packages.  
-- Understand the structure of count data and metadata required for running analysis.  
-- Be able to extract, explore, visualize and export results.  
-- Perform a GO analysis to identify the pathways relevant to a set of genes (e.g. identified by transcriptomic study or a proteomic experiment). Use both Bioconductor packages and online tools to interpret gene lists and annotate potential gene functions.
-
-**Videos:**
-- 1.1 - [Differential expression analysis of RNA-Seq data](https://youtu.be/JxMpV6QUxS0){:.no-push-state}{:target="_blank"},  
-- 1.2 - [Differential expression tests and pathway analysis](https://youtu.be/Wjxh8Cw1n1s){:.no-push-state}{:target="_blank"},    
-- 1.3 - [Installing Bioconductor and DESeq2](http://youtu.be/aekKXg0U1Rg){:.no-push-state}{:target="_blank"},    
-- 1.4 - [Principal component analysis (PCA) Pt.1](http://youtu.be/Olm0gW6OXIg){:.no-push-state}{:target="_blank"},   
+- Functional analysis of gene sets gathered from RNA-seq data 
+- GO term enrichment analysis [vignette](https://drive.google.com/drive/folders/1K5MAeMVa35r8euNrTAI9H4yH84Ksgwed){:.no-push-state},   
+- Gene set enrichment analysis (GSEA) [vignette](https://drive.google.com/drive/folders/1K5MAeMVa35r8euNrTAI9H4yH84Ksgwed){:.no-push-state},   
+- Weighted gene co-expression network analysis (WGCNA)
 
 
 **Supporting material:**
-- Slides: [Large PDF]({{ site.baseurl }}/class_material/class01_slides.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [**Hands-on section worksheet**  ]({{ site.baseurl }}/class_material/class1_lab.html){:.no-push-state}{:target="_blank"},  
-- Detailed [Bioconductor setup](https://bioboot.github.io/bggn213_W23//class-material/bioconductor_setup/){:.no-push-state}{:target="_blank"} instructions.
-- WebApp: [Introduction to PCA](https://bioboot.github.io/bggn213_W23/class-material/pca/){:.no-push-state}{:target="_blank"},  
-- [Muddy point assessment](https://forms.gle/DjpHctStFB15vaow6){:.no-push-state}. 
-
-
-**Readings**:
- - Excellent review article: [Conesa et al. A survey of best practices for RNA-seq data analysis. _Genome Biology_ 17:13 (2016)](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8){:.no-push-state}.  
- - An oldey but a goodie: [Soneson et al. "Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences." _F1000Research_ 4 (2015)](https://f1000research.com/articles/4-1521/v2).  
-  
+- Slides: [Large PDF]({{ site.baseurl }}/class_material/class01_slides.pdf){:.no-push-state}{:target="_blank"},    
+- NYU Center For Genomics and Systems Biology: [gene set analysis](https://learn.gencore.bio.nyu.edu/rna-seq-analysis/over-representation-analysis/){:.no-push-state}, 
+- ClusterProfiler documentation and tutorials: [Yu Lab](http://yulab-smu.top/biomedical-knowledge-mining-book/enrichment-overview.html){:.no-push-state},
 
 
 **Homework:**
-- Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/528106){:.no-push-state}{:target="_blank"},  
+- This is "04. GO term enrichment analysis" in Gradescope
+- Submit your completed PDF lab report with answers to homework questions at [GradeScope](https://www.gradescope.com/courses/528106){:.no-push-state}{:target="_blank"},  
+- 
 
 
 --- 
 <a name="2"></a>
-## Class 2: RNA-Seq analysis mini-project
+## Class 2:Single-cell data analysis mini-project - CITE-seq
 
 **Topics:** 
-Differential expression analysis project, Working with GEO and DESeq2 followed by gene enrichment and functional annotation with KEGG and GO ontologies.   
-
-
-- Lab: [DESeq2 analysis mini-project]({{ site.baseurl }}/class_material/class2_lab.html){:.no-push-state}{:target="_blank"}.  
-- [Muddy point assessment](https://forms.gle/nTcwUHM4c2nmNZvp8){:.no-push-state}.  TO UPDATE
+- Analysis of single-cell RNA-seq data coupled with ADT (antibody derived tags) (i.e., CITE-seq) from 5k human PBMCs using Seurat
+- Link to the exercise [vignette](https://drive.google.com/drive/folders/1J_snQgb09U9JZiWJWDaJ7Y2A7icg_n0m){:.no-push-state},  
 
 
 **Homework:**
+- This is "05. CITE-seq analysis" in Gradescope
 - Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/528106){:.no-push-state}{:target="_blank"},  
