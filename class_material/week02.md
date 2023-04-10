@@ -41,7 +41,7 @@ description: >
 
 
 **Supporting material:**
-- Slides: [Large PDF]({{ site.baseurl }}/class_material/class01_slides.pdf){:.no-push-state}{:target="_blank"},    
+- Slides: [Large PDF]({{ site.baseurl }}/class_material/week02_slides.pdf){:.no-push-state}{:target="_blank"},    
 - NYU Center For Genomics and Systems Biology: [gene set analysis](https://learn.gencore.bio.nyu.edu/rna-seq-analysis/over-representation-analysis/){:.no-push-state}, 
 - ClusterProfiler documentation and tutorials: [Yu Lab](http://yulab-smu.top/biomedical-knowledge-mining-book/enrichment-overview.html){:.no-push-state},
 
