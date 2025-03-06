@@ -6,7 +6,7 @@ order: 2
 ---
 
 
-For the Spring 2023 quarter we will meet twice a week on Monday and Wednesday at 4:30-6:20 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Clicking on the topics below will take you to supporting class content in Google Drive, hands-on “lab session” sheets, walk-through screencasts, required reading material and homework assignments.
+For the Spring 2025 quarter we will meet twice a week on Tuesday and Thrusday at 2:00 - 3:50 pm in Tata Hall 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Clicking on the topics below will take you to supporting class content in Google Drive, hands-on “lab session” sheets, walk-through screencasts, required reading material and homework assignments.
 
 
 <br>

@@ -21,13 +21,13 @@ Current versions of [Chrome](https://www.google.com/chrome/), [Firefox](http://w
 We will use [Zoom](https://ucsd.zoom.us) on a weekly basis for office hours and other meetings. Please make sure you have Zoom installed and running to allow you to join these meetings.   
 
 ### The data analysis environment **R** and **RStudio**
-R Binaries for Windows, MacOSX and Linux can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest binary version of R for your operating system. As of course launch (March 21) the latest release (2023-03-22, "Shortstop Beagle") is R 4.2.3.
+R Binaries for Windows, MacOSX and Linux can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest binary version of R for your operating system. As of course launch the latest release (2025-02-28, "Trophy Case") is R 4.4.3.
 
-After installing R itself we recommend installing [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/#download) (Version 2023.03.0+386 or above), a slick visual interface for R. **N.B.** You will want the Open Source **FREE** desktop version. If you have an older version of RStudio (without Quarto, i.e. pre-2023) you will benifit from updating.
+After installing R itself we recommend installing [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/#download) (Version 2024.12.1+563 or above), a slick visual interface for R. **N.B.** You will want the Open Source **FREE** desktop version. If you have an older version of RStudio (without Quarto, i.e. pre-2023) you will benifit from updating.
 
 
 ### RTools for windows
-PC users will benefit from installing [RTool](https://cran.r-project.org/bin/windows/Rtools/). This is needed for building R packages with C/C++/Fortran code from source - something we will describe later in the course. Look for the **Rtools42 installer** link. **N.B. Rtools is only needed for Windows users**.  
+PC users will benefit from installing [RTool](https://cran.r-project.org/bin/windows/Rtools/). This is needed for building R packages with C/C++/Fortran code from source - something we will describe later in the course. Look for the **Rtools4.4 installer** link. **N.B. Rtools is only needed for Windows users**.  
 
 
 ### Xcode Command Line Tools (Mac only)

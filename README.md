@@ -1,4 +1,4 @@
-# BGGN239Spring2023
+# BGGN239Spring2025
 
 Available in https://ay-lab.github.io/BGGN239Spring2025/
 
