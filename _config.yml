@@ -27,7 +27,7 @@ url:                 https://ay-lab.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /BGGN239Spring2023
+baseurl:             /BGGN239Spring2025
 
 # A very short description of your page
 tagline:             A course for the Program in Immunology at UCSD.
@@ -43,7 +43,7 @@ author:
   email:             fay@health.ucsd.org
 
 # Fallback image and color (note you can have a page specific sidebar image and color from yml)
-image:               https://ay-lab.github.io/BGGN239Spring2023/assets/img/dna.jpeg
+image:               https://ay-lab.github.io/BGGN239Spring2025/assets/img/dna.jpeg
 ##-image: '{{ baseurl }}/assets/img/dna.jpeg'
 color:               '#4f86aa'
 
@@ -68,7 +68,7 @@ google_fonts:        Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 disqus_shortname:    BGGN239
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2023 [Ferhat Ay](). All rights reserved.'
+copyright:           '&copy; 2025 [Ferhat Ay](). All rights reserved.'
 
 # Format of the permalinks
 permalink:           pretty
