@@ -28,8 +28,6 @@ Major topics include:
 - Be able to utilize existing tools to perform data analysis for several different sequencing and imaging techniques; and
 - Learn and actively utilize best practices for reproducible research and collaboration related to bioinformatics (project organization, version control, online lab notebooks).
 
-For further details please see our complete list of [course objectives and specific learning goals]({{ site.baseurl }}/goals/).
-
 ## Audience: 
 Bioinformatics graduate students and others familiar with   
 
