@@ -48,7 +48,3 @@ All announcements regarding the course will be by email to your UCSD address and
 
 ## Office hours & location:  
 We will use Zoom on a weekly basis at a time to be determined from student polling. Please email me if you are interested in meeting to discuss course related content at any point.
-
-## Syllabus:  
-A detailed [syllabus]({{ site.baseurl }}/class-material/BIMM143_W18_syllabus.pdf){:.no-push-state} with topic outlines and learning goals is available for download.
-

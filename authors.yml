@@ -3,27 +3,20 @@
 # Change `barry` to your shortname (used in the front matter to set a page's author, e.g. `author: ileena`).
 Ferhat:
   name:              Ferhat Ay
-  email:             <fay@health.ucsd.edu>
+  email:             <ferhatay@lji.org>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
     Course Director
-    : [Prof. Ferhat Ay.](https://www.lji.org/labs/ay/) (Email: <fay@health.ucsd.edu>)
+    : [Prof. Ferhat Ay.](https://www.lji.org/labs/ay/) (Email: <ferhatay@lji.org>)
     : [Prof. Mitchell Kronenberg.](https://www.lji.org/labs/kronenberg/) (Email: <mitch@lji.org>)
 
-    Course Administrator
-    : Donaldo Sosa (Email: <donaldo@lji.org>)  
+    Teacher Assistants
+    : Daniela Salgado Figueroa (Email: <dsfigueroa@lji.org>) 
+    : Dante Bolzan (Email: <dbolzan@lji.org>)
 
-    Cousrse Syllabus
-    : [Spring 2025 (PDF)](https://bioboot.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}
     {:.message}
-
-#    : [Donaldo Sosa](https://bioboot.github.io/BGGN239Spring2023/donaldo@lji.org) (Email: <donaldo@lji.org>)
-##  about:             |
-##    Course Director:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; [**Prof. Ferhat Ay**](https://www.lji.org/labs/ay/) &nbsp; &nbsp; (Email: <fay@health.ucsd.edu>)  
-##    Course administrator: &nbsp; [**Donaldo Sosa**](donaldo@lji.org) &nbsp; &nbsp; &nbsp; (Email: <donaldo@lji.org>)  
-##    Course Syllabus:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [**Spring 2025** (PDF)](https://bioboot.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}  
 
   # This photo will be used in the about section
   picture:
