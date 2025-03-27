@@ -30,7 +30,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 
 
 **Supporting material:**  
-- OLD Handout: [Class Structure](https://ay-lab.github.io/BGGN239Spring2023/class_material/Class_Overview.pdf){:.no-push-state}{:target="_blank"},  
+- Handout: [Class Structure](https://ay-lab.github.io/BGGN239Spring2025/class_material/Class_Overview.pdf){:.no-push-state}{:target="_blank"},  
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/). 
 
 
