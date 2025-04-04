@@ -19,7 +19,7 @@ description: >
 **Topics:**  
 - Finishing up the DESeq portion of the SLE exercise
 - Getting gene sets and saving them with all the related information to continue Week 2 exercises
-- Follow the vignette provided in [Google Drive](https://drive.google.com/drive/folders/1c6YZvw4NxY3kBTrP-IBa4M6YHExxo75P){:.no-push-state},  
+- Follow the vignette provided in [Google Drive](https://drive.google.com/drive/folders/196tyFgpWjjiAGoMSe6ElHmlKHhiLSLQ9?usp=drive_link){:.no-push-state},  
 
 **Supporting material:**  
 - Lab from Week 1: [DESeq2 analysis mini-project]({{ site.baseurl }}/class_material/class2_lab.html){:.no-push-state}{:target="_blank"}.  
@@ -35,8 +35,8 @@ description: >
 
 **Topics:** 
 - Functional analysis of gene sets gathered from RNA-seq data 
-- GO term enrichment analysis [vignette](https://drive.google.com/drive/folders/1K5MAeMVa35r8euNrTAI9H4yH84Ksgwed){:.no-push-state},   
-- Gene set enrichment analysis (GSEA) [vignette](https://drive.google.com/drive/folders/1K5MAeMVa35r8euNrTAI9H4yH84Ksgwed){:.no-push-state},   
+- GO term enrichment analysis [vignette](https://drive.google.com/drive/folders/1Vop_6qxFu6HAfoTKGJMaUL_0oAD2ojZy?usp=drive_link){:.no-push-state},   
+- Gene set enrichment analysis (GSEA) [vignette](https://drive.google.com/drive/folders/1Vop_6qxFu6HAfoTKGJMaUL_0oAD2ojZy?usp=drive_link){:.no-push-state},   
 - Weighted gene co-expression network analysis (WGCNA)
 
 
@@ -58,7 +58,7 @@ description: >
 
 **Topics:** 
 - Analysis of single-cell RNA-seq data coupled with ADT (antibody derived tags) (i.e., CITE-seq) from 5k human PBMCs using Seurat
-- Link to the exercise [vignette](https://drive.google.com/drive/folders/1J_snQgb09U9JZiWJWDaJ7Y2A7icg_n0m){:.no-push-state},  
+- Link to the exercise [vignette](https://drive.google.com/drive/folders/1sTybqoPflsDFb9BV40xlWIPS_8oZ_0mk?usp=drive_link){:.no-push-state},  
 
 
 **Homework:**
