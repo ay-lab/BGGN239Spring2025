@@ -39,7 +39,7 @@ We are committed to making this course accessible to everybody. Please contact D
 To fully participate in this course students will be expected to use their own laptop computers with specific freely available [software installed]({{ site.baseurl }}/setup/). A limited number of classroom computers are also available should the need arise. Participants must bring a laptop with specific [software installed]({{ site.baseurl }}/setup/).  
 
 ## Schedule:  
-Lectures are on Tuesday and Thrusday at 2:00 - 3:50 pm in Tata Hall 2501. [Map](https://map.concept3d.com/?id=1005#!ct/18312?m/359878?s/TATA_Main).  These lectures will include lectures and exercise work sessions. A detailed [schedule]({{ site.baseurl }}/schedule/) with class related material is provided online.  
+Lectures are on Tuesday and Thursday at 2:00 - 3:50 pm in Tata Hall 2501. [Map](https://map.concept3d.com/?id=1005#!ct/18312?m/359878?s/TATA_Main).  These lectures will include lectures and exercise work sessions. A detailed [schedule]({{ site.baseurl }}/schedule/) with class related material is provided online.  
 
 ## Class announcements:  
 All announcements regarding the course will be by email to your UCSD address and will also be updated on the class website.
