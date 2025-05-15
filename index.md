@@ -29,7 +29,7 @@ Major topics include:
 - Learn and actively utilize best practices for reproducible research and collaboration related to bioinformatics (project organization, version control, online lab notebooks).
 
 ## Audience: 
-Bioinformatics graduate students and others familiar with   
+Bioinformatics graduate students and others familiar with coding.
 
 ## Accessibility:  
 We are committed to making this course accessible to everybody. Please contact Dr. Ferhat Ay <ferhatay@lji.org> if you have questions regarding room accessibility
